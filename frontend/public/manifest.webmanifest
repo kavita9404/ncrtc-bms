@@ -1,0 +1,10 @@
+{
+  "name": "NCRTC Bus Crew",
+  "short_name": "NCRTC Crew",
+  "start_url": "/driver",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d84e55",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
